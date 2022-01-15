@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cloudvy
 - 👀 I’m interested in coding, gamedeveloping.
-- 🌱 I’m currently learning C++ OOP, DP, DS&A
+- 🌱 I’m currently learning C++ OOP, UE5, DS&A
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
