@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cloudvy
 - 👀 I’m interested in coding, gamedeveloping, learning languages and travelling.
-- 🌱 I’m currently learning C++, UE5, DS&A
+- 🌱 I’m currently learning C++ & Blender 3D
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: contact me on GitHub, discord: cloudvy#1133
+- 📫 How to reach me: contact me on GitHub, discord: cloudvy#1133, gmail: yawergeroy@gmail.com
 
 <!---
 cloudvy/cloudvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
