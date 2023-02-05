@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cloudvy
 - 👀 I’m interested in coding, gamedeveloping, learning languages and travelling.
-- 🌱 I’m currently learning C++ & Blender 3D
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning WebDev
+- 💞️ I’m looking to collaborate on whatever you have to offer
 - 📫 How to reach me: contact me on GitHub, discord: cloudvy#1133, gmail: yawergeroy@gmail.com
 
 <!---
